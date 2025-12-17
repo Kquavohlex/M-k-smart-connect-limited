@@ -1,0 +1,89 @@
+[12/17, 12:02] ChatGPT: <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="services" class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Data Bundles & Airtime Top-ups</li>
+      <li>SMS & Minutes Sales</li>
+      <li>WiFi Solutions</li>
+      <li>CCTV Installation & Maintenance</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>M&K Smart Connect Ltd offers trusted digital and security solutions across Kenya. We are committed to reliability, convenience, and excellent customer service.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> 0726 069 400</p>
+    <p><strong>Email:</strong> mksmartconnectlimited@example.com</p>
+    <p><strong>Till Number:</strong> 9966895</p>
+  </section>
+
+  <footer>
+    <p>© 2025 M&K Smart Connect Ltd. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+```
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>M&K Smart Connect Ltd</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: white;
+      color: #222;
+    }
+    header {
+      background-color: green;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: black;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    section {
+      padding: 20px;
+    }
+    .services {
+      background-color: #f2f2f2;
+    }
+    .contact {
+      background-color: #ffe600;
+    }
+    footer {
+      background: purple;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>M&K Smart Connect Ltd</h1>
+    <p>Your one-stop shop for Data, SMS, Minutes & CCTV Solutions</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
